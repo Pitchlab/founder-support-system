@@ -1,0 +1,20 @@
+# Claude Code
+.claude-plugin/config.json
+*.log
+
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Node
+node_modules/
+npm-debug.log
+
+# Temporary files
+*.tmp
+.tmp/

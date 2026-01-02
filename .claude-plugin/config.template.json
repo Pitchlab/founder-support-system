@@ -1,0 +1,10 @@
+{
+  "notion": {
+    "vision": "https://www.notion.so/YOUR-VISION-PAGE-ID",
+    "yearPlan": "https://www.notion.so/YOUR-YEAR-PLAN-PAGE-ID",
+    "personalOperatingModel": "https://www.notion.so/YOUR-POM-PAGE-ID",
+    "goldenRules": "https://www.notion.so/YOUR-GOLDEN-RULES-PAGE-ID",
+    "logbook": "https://www.notion.so/YOUR-LOGBOOK-PAGE-ID",
+    "founderWisdom": "https://www.notion.so/YOUR-FOUNDER-WISDOM-PAGE-ID"
+  }
+}
