@@ -36,12 +36,17 @@ claude plugin install .
 
 ### Quick Setup
 
-1. Create Notion pages (Vision, Year Plan, Personal Operating Model, Golden Rules, Logbook, Founder Wisdom)
-2. Copy page URLs from Notion
-3. Configure `.claude-plugin/config.json` with your Notion URLs
-4. Start using commands and coaches
+**Interactive Setup (Recommended)**:
+```bash
+/founder-support-system:setup
+```
+The setup wizard will guide you through:
+1. Verifying Notion MCP Server installation
+2. Creating required Notion pages
+3. Configuring your Notion URLs
+4. Testing the connection
 
-See [SETUP.md](./SETUP.md) for detailed step-by-step instructions.
+**Manual Setup**: See [SETUP.md](./SETUP.md) for detailed step-by-step instructions.
 
 ## Planning System Structure
 
