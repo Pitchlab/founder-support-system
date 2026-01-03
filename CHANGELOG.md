@@ -1,5 +1,31 @@
 # Changelog
 
+## [1.0.1] - 2026-01-02
+
+### Added
+
+**Setup & Help**:
+- Interactive setup wizard (`/founder-support-system:setup`)
+  - Step-by-step Notion MCP server verification
+  - Guided Notion page creation
+  - Automatic `.claude/config.md` generation
+  - Connection testing
+- Help command (`/founder-support-system:help`)
+  - Complete setup guide
+  - Quick start instructions
+  - Troubleshooting section
+  - Quick reference card
+
+**Documentation**:
+- CLAUDE.md file for future Claude Code instances
+- Updated README with interactive setup instructions
+- Configuration loading priority documentation
+
+### Changed
+
+- README installation section now highlights interactive setup wizard
+- Improved onboarding experience for new users
+
 ## [1.0.0] - 2026-01-02
 
 ### Initial Release
